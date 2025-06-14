@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RadioButton_Impressive</name>
+   <tag></tag>
+   <elementGuidId>e5993f07-f278-4e01-8c7b-cd1c48cbeb96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>impressiveRadio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#impressiveRadio</value>
+      <webElementGuid>0c9658d8-6449-4e05-9a61-b7fa74e1a482</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
