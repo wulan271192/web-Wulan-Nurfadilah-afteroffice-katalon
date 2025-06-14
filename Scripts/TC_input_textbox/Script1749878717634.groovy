@@ -35,21 +35,21 @@ WebUI.verifyElementPresent(findTestObject('DemoQA/Element/TextBox/Menu_textbox')
 
 WebUI.click(findTestObject('DemoQA/Element/TextBox/Menu_textbox'))
 
-WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_Fullname'), 'Wulan Nurfadilah S')
+WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_Fullname'), 'KARINA AESPA')
 
 WebUI.delay(2)
 
 WebUI.scrollToElement(findTestObject('DemoQA/Element/TextBox/input_UserEmail'), 0)
 
-WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_UserEmail'), 'wulan@gmail.com')
+WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_UserEmail'), 'karina@gmail.com')
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_CurrentAddress'), 'jalan jakarta raya nomor 67 DKI Jakarta')
+WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_CurrentAddress'), 'jalan myeeondong seolu no 89 seoul korsel')
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_PermanentAddress'), 'jalan kebayoran Square No 89 TangseL')
+WebUI.setText(findTestObject('DemoQA/Element/TextBox/input_PermanentAddress'), 'jalan pulau jeju nomor 67 pulau jeju - korsel')
 
 WebUI.delay(2)
 
